@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tdd.bowling.BowlingGameTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-05-26T05:28:43" hostname="nemoui-MacBookPro.local" time="0.025">
+  <properties/>
+  <testcase name="플레이어는 모든 프레임의 각 투구에서 0점을 기록한다" classname="tdd.bowling.BowlingGameTest" time="0.015"/>
+  <testcase name="플레이어는 스페어 발생 시 다음 투구에서 쓰러뜨린 핀의 개수만큼 보너스를 받는다" classname="tdd.bowling.BowlingGameTest" time="0.001"/>
+  <testcase name="플레이어는 각 투구에서 최소 0개 최대 10개의 핀을 쓰러트릴 수 있다" classname="tdd.bowling.BowlingGameTest" time="0.002"/>
+  <testcase name="플레이어는 첫 프레임에서 스트라이크를 기록하고 다음과 같은 점수를 얻는다" classname="tdd.bowling.BowlingGameTest" time="0.001"/>
+  <testcase name="플레이어는 1점만 기록하고 점수를 기록하지 못한다." classname="tdd.bowling.BowlingGameTest" time="0.001"/>
+  <testcase name="플레이어는 각 투구에서 최소 0개 최대 10개의 핀을 쓰러트릴 수 있다" classname="tdd.bowling.BowlingGameTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
